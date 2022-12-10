@@ -21,7 +21,7 @@ Además de los archivos descritos arriba, también se incluyen los archivos de t
 
 El dataset ha sido obtenido de la plataforma Kaggle:
 
-(link)
+https://www.kaggle.com/datasets/dilwong/flightprices
 
 
 ### Como ejecutar la aplicación
